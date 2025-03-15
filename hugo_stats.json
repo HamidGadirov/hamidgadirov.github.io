@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "--",
+      "?xml",
       "a",
       "article",
       "aside",
@@ -589,7 +590,7 @@
       "Layer_1",
       "TableOfContents",
       "callouts",
-      "chart-451276893",
+      "chart-429863175",
       "charts",
       "code",
       "crowd-funded-open-source-software",
