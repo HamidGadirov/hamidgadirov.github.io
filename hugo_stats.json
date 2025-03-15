@@ -2,7 +2,6 @@
   "htmlElements": {
     "tags": [
       "--",
-      "?xml",
       "a",
       "article",
       "aside",
@@ -42,9 +41,6 @@
       "path",
       "polygon",
       "pre",
-      "rb",
-      "rt",
-      "ruby",
       "script",
       "section",
       "source",
@@ -594,7 +590,7 @@
       "TableOfContents",
       "about-me",
       "callouts",
-      "chart-657128349",
+      "chart-872456931",
       "charts",
       "code",
       "crowd-funded-open-source-software",
