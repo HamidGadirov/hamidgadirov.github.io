@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Researcher
+role: Doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gadirovh@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/HamidGadirov
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hamid-gadirov-a17b26175/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=R5b4PU8AAAAJ&hl=en&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6578-4342
 
 interests:
   - Machine Learning
@@ -52,8 +48,8 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Computer Science, 2025
+    institution: University of Groningen
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -181,8 +177,10 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Welcome!
 
-Working on ML for Scientific Visualization & 3D Vision.
+I am deeply committed to the field of Artificial Intelligence because I believe it represents a transformative wave in human progress. AI has the potential to solve some of the most pressing challenges facing our world today, from healthcare to climate change. My goal is to be at the forefront of this movement, using my expertise and passion to push the boundaries of AI, making it more powerful and accessible. Through my work, I aim to contribute to the advancement of AI technologies, promoting their integration into society in ways that improve lives and drive humanity forward.
+
+<!--Working on ML for Scientific Visualization & 3D Vision.-->
 
 <!--Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.-->
