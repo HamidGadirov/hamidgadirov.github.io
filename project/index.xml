@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Hamid Gadirov</title><link>https://hamidgadirov.github.io/project/</link><atom:link href="https://hamidgadirov.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://hamidgadirov.github.io/media/icon_hu_645fa481986063ef.png</url><title>Projects</title><link>https://hamidgadirov.github.io/project/</link></image><item><title>Pandas</title><link>https://hamidgadirov.github.io/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hamidgadirov.github.io/project/pandas/</guid><description>&lt;p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p></description></item><item><title>PyTorch</title><link>https://hamidgadirov.github.io/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hamidgadirov.github.io/project/pytorch/</guid><description>&lt;p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p></description></item><item><title>scikit-learn</title><link>https://hamidgadirov.github.io/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hamidgadirov.github.io/project/scikit/</guid><description>&lt;p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hamid Gadirov</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Stable Diffusion</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Stable Diffusion is a deep learning model for generating images from text prompts, and in this project, I implemented it as a fun experiment to explore its capabilities and customization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optical Flow</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;This project explores optical flow, a technique for estimating motion between two frames in a video sequence. Optical flow is widely used in video processing, motion tracking, and computational photography.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ML for Visualization</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;This project explores how &lt;strong&gt;autoencoders&lt;/strong&gt; can improve the visualization of &lt;strong&gt;spatial ensembles&lt;/strong&gt; by extracting meaningful features before applying dimensionality reduction techniques like &lt;strong&gt;UMAP&lt;/strong&gt;. The goal is to create more expressive 2D projections that effectively capture spatial structures and spatio-temporal behaviors in ensemble data.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evaluating Autoencoder Variants&lt;/strong&gt;: We assess how different &lt;strong&gt;architectures and parameter settings&lt;/strong&gt; affect the quality of visualizations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feature Extraction for Projections&lt;/strong&gt;: Autoencoders significantly enhance UMAP projections, improving how ensemble structures are represented.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Guided Selection of Autoencoders&lt;/strong&gt;: We propose a method to select the best autoencoder configuration based on &lt;strong&gt;projection metrics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient Labeling Strategy&lt;/strong&gt;: Instead of labeling the entire dataset, we show that a small subset of labeled ensemble members is enough for selecting an effective autoencoder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;p&gt;The project applies this approach to two different ensemble datasets:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Geological Data&lt;/strong&gt;: Channel structures in soil generated using &lt;strong&gt;Markov chain Monte Carlo simulations&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fluid Dynamics&lt;/strong&gt;: Time-dependent experimental data on &lt;strong&gt;droplet-film interaction&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By leveraging &lt;strong&gt;machine learning&lt;/strong&gt;, this project provides an automated, data-driven approach to improving visualization in ensemble analysis.&lt;/p&gt;
+&lt;p&gt;For more details and implementation, visit the &lt;a href=&#34;https://github.com/HamidGadirov/ML-for-EnsembleVis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

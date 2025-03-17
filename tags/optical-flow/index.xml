@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optical Flow | Hamid Gadirov</title>
+    <link>http://localhost:1313/tags/optical-flow/</link>
+      <atom:link href="http://localhost:1313/tags/optical-flow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optical Flow</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Optical Flow</title>
+      <link>http://localhost:1313/tags/optical-flow/</link>
+    </image>
+    
+    <item>
+      <title>Optical Flow</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;This project explores optical flow, a technique for estimating motion between two frames in a video sequence. Optical flow is widely used in video processing, motion tracking, and computational photography.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

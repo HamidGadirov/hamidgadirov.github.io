@@ -1,21 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Clustering | Hamid Gadirov</title><link>https://hamidgadirov.github.io/tags/clustering/</link><atom:link href="https://hamidgadirov.github.io/tags/clustering/index.xml" rel="self" type="application/rss+xml"/><description>Clustering</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><image><url>https://hamidgadirov.github.io/media/icon_hu_645fa481986063ef.png</url><title>Clustering</title><link>https://hamidgadirov.github.io/tags/clustering/</link></image><item><title>Evaluation and Selection of Autoencoders for Expressive Dimensionality Reduction of Spatial Ensembles</title><link>https://hamidgadirov.github.io/publication/conference-paper/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><guid>https://hamidgadirov.github.io/publication/conference-paper/</guid><description>&lt;!--
-&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">&lt;p>&amp;ndash;&amp;gt;&lt;/p>
-&lt;!--Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.-->
-&lt;!--&lt;/span>
-&lt;/div>-->
-&lt;!---->
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering | Hamid Gadirov</title>
+    <link>http://localhost:1313/tags/clustering/</link>
+      <atom:link href="http://localhost:1313/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clustering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Clustering</title>
+      <link>http://localhost:1313/tags/clustering/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation and Selection of Autoencoders for Expressive Dimensionality Reduction of Spatial Ensembles</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;!--
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.--&gt;
+&lt;!--&lt;/span&gt;
+&lt;/div&gt;--&gt;
+&lt;!----&gt;
 &lt;!--
-&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">&lt;p>&amp;ndash;&amp;gt;&lt;/p>
-&lt;!--Create your slides in Markdown - click the _Slides_ button to check out the example.-->
-&lt;!--&lt;/span>
-&lt;/div>-->
-&lt;!---->
-&lt;!--Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).--></description></item></channel></rss>
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;p&gt;&amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the _Slides_ button to check out the example.--&gt;
+&lt;!--&lt;/span&gt;
+&lt;/div&gt;--&gt;
+&lt;!----&gt;
+&lt;!--Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML for Visualization</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;This project explores how &lt;strong&gt;autoencoders&lt;/strong&gt; can improve the visualization of &lt;strong&gt;spatial ensembles&lt;/strong&gt; by extracting meaningful features before applying dimensionality reduction techniques like &lt;strong&gt;UMAP&lt;/strong&gt;. The goal is to create more expressive 2D projections that effectively capture spatial structures and spatio-temporal behaviors in ensemble data.&lt;/p&gt;
+&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Evaluating Autoencoder Variants&lt;/strong&gt;: We assess how different &lt;strong&gt;architectures and parameter settings&lt;/strong&gt; affect the quality of visualizations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feature Extraction for Projections&lt;/strong&gt;: Autoencoders significantly enhance UMAP projections, improving how ensemble structures are represented.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Guided Selection of Autoencoders&lt;/strong&gt;: We propose a method to select the best autoencoder configuration based on &lt;strong&gt;projection metrics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient Labeling Strategy&lt;/strong&gt;: Instead of labeling the entire dataset, we show that a small subset of labeled ensemble members is enough for selecting an effective autoencoder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;p&gt;The project applies this approach to two different ensemble datasets:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Geological Data&lt;/strong&gt;: Channel structures in soil generated using &lt;strong&gt;Markov chain Monte Carlo simulations&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fluid Dynamics&lt;/strong&gt;: Time-dependent experimental data on &lt;strong&gt;droplet-film interaction&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By leveraging &lt;strong&gt;machine learning&lt;/strong&gt;, this project provides an automated, data-driven approach to improving visualization in ensemble analysis.&lt;/p&gt;
+&lt;p&gt;For more details and implementation, visit the &lt;a href=&#34;https://github.com/HamidGadirov/ML-for-EnsembleVis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

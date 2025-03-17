@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stable Diffusion | Hamid Gadirov</title>
+    <link>http://localhost:1313/tags/stable-diffusion/</link>
+      <atom:link href="http://localhost:1313/tags/stable-diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stable Diffusion</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Stable Diffusion</title>
+      <link>http://localhost:1313/tags/stable-diffusion/</link>
+    </image>
+    
+    <item>
+      <title>Stable Diffusion</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;Stable Diffusion is a deep learning model for generating images from text prompts, and in this project, I implemented it as a fun experiment to explore its capabilities and customization.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
